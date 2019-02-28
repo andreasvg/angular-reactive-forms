@@ -1,0 +1,17 @@
+.address {
+  background-color: rgb(233, 250, 233);
+}
+
+.address.is-invalid {
+  border-width: 1px;
+  border-color: red;
+  border-style: solid;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  background-color: rgb(252, 232, 235);
+}
+
+.hide {
+  display: none;
+}

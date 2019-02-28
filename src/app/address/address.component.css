@@ -1,0 +1,8 @@
+.address {
+  border-width: 1px;
+  border-color: gray;
+  border-style: solid;
+  padding: 5px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+}
